@@ -1,0 +1,26 @@
+.NotFound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #000000;
+}
+.notFound-image {
+  width: 450px;
+  height: 350px;
+}
+
+.noFound-title-text {
+  font-family: 'roboto';
+  font-size: 28px;
+  font-weight: 450;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.no-found-msg {
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 450;
+  color: #475569;
+}
